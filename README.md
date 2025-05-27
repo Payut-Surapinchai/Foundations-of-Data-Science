@@ -37,4 +37,7 @@ This repository consists of all my courseworks and projects from Foundations of 
 
   ## About me
   I'm an undergraduate in University of Colorado Denver who is majoring in Data Science, building a strong foundation on Python, C++, and R. Along with the data wrangling, data visualizations, and exploratory data analysis techniques in Python and R. I'm passionate about solving problems with data and learning new tools & techniques.
+
+Connect with me on [LinkedIn][www.linkedin.com/in/payut-surapinchai-2005cudenver]
+
   
