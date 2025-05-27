@@ -1,7 +1,7 @@
 # Foundations of Data Science (CSCI 2980)
 Instructor: Farnoush Banaei-Kashani
 
-This repository consists of all my courseworks and projects from Foundations of Data Science course in University of Colorado Denver. Through the Foundations of Data Science course, I've learned how to do some data wrangling, data visualizations, and exploratory data analysis in Python. The materials here demonstrates my ability to work with real-world datasets, applying the techniques from the course, and communicating the insights effectively.
+This repository consists of all my courseworks and projects from Foundations of Data Science course in University of Colorado Denver. Through the Foundations of Data Science course, I've learned how to do some data wrangling, data visualizations, statistica calculations, and exploratory data analysis in Python. The materials here demonstrates my ability to work with real-world datasets, applying the techniques from the course, and communicating the insights effectively.
 
 ## Contents
 **Note: Most of the assignments will be about the materials from the prior week. For example, the Lab 3 and Homework 3 will be about Week 3's materials rather than Week 4's materials.**
