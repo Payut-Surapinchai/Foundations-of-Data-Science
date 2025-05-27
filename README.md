@@ -43,4 +43,5 @@ To open the file and edit, download the files and use Jupyter notebook or Google
 I'm an undergraduate in University of Colorado Denver who is majoring in Data Science, building a strong foundation on Python, C++, and R. Along with the data wrangling, data visualizations, and exploratory data analysis techniques in Python and R. I'm passionate about solving problems with data and learning new tools & techniques.
 
 Connect with me on LinkedIn: www.linkedin.com/in/payut-surapinchai-2005cudenver
+
 For any questions regarding file instructions, or any clarifications needed in this `README.md` file, contact: payut.surapinchai@ucdenver.edu
