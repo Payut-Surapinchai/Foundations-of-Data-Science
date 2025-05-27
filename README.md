@@ -1,4 +1,5 @@
-# Foundations-of-Data-Science
+# Foundations of Data Science (CSCI 2980)
+Instructor: Farnoush Banaei-Kashani
 
 This repository consists of all my courseworks and projects from Foundations of Data Science course in University of Colorado Denver. Through the Foundations of Data Science course, I've learned how to do some data wrangling, data visualizations, and exploratory data analysis in Python. The materials here demonstrates my ability to work with real-world datasets, applying the techniques from the course, and communicating the insights effectively.
 
@@ -35,9 +36,11 @@ This repository consists of all my courseworks and projects from Foundations of 
 - Week 16 Regression and Decisions: Finalizes the topic of regression models and the how to conclude to decisions from the models.
         - Assignment: `Lab 11` and `Homework 12`
 
-  ## About me
-  I'm an undergraduate in University of Colorado Denver who is majoring in Data Science, building a strong foundation on Python, C++, and R. Along with the data wrangling, data visualizations, and exploratory data analysis techniques in Python and R. I'm passionate about solving problems with data and learning new tools & techniques.
+## Instructions
+To open the file and edit, download the files and use Jupyter notebook or Google Colab to open the file. In addition, make sure that your Jupyter notebook or Google colab has the packages that needs to be imported to run the code cells in the file. The first code cell will indicate all the packages/libraries that you need to import to run the file. 
+
+## About me
+I'm an undergraduate in University of Colorado Denver who is majoring in Data Science, building a strong foundation on Python, C++, and R. Along with the data wrangling, data visualizations, and exploratory data analysis techniques in Python and R. I'm passionate about solving problems with data and learning new tools & techniques.
 
 Connect with me on LinkedIn: www.linkedin.com/in/payut-surapinchai-2005cudenver
-
-  
+For any questions regarding file instructions, or any clarifications needed in this `README.md` file, contact: payut.surapinchai@ucdenver.edu
